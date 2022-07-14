@@ -1,4 +1,4 @@
-I'm just a very ordinary computer science undergraduate student who accidentally got interested in theoretical computer science one day. This repository records some of my self-taught theoretical computer science stuff, including complexity theory, cryptography, quantum computing, and mathematics-related learning materials, etc.
+I'm just a very ordinary computer science undergraduate student who accidentally got interested in theoretical computer science one day. This repository records some of my self-taught theoretical computer science stuff, including complexity theory, cryptography, quantum computing, and mathematics-related learning materials, etc. If you have studied other good courses or books, or areas of theory not covered below, welcome to pull requests.
 
 Since I don't have a mentor, I spend all my free time studying on my own. If this repository is not updated for a long time, then I may go to a company to work for [996](https://996.icu/).
 
